@@ -19,6 +19,8 @@ Notes and next steps
 - Activation: the extension currently has no activationEvents configured in `package.json`. Consider adding activation events (e.g., onView:Shibba.view or onCommand:shiba-inu-pet.helloWorld) to control activation behavior.
 - Improve accessibility: add alt text for images and keyboard support for UI controls in the webview.
 - If you want CI badges (build, marketplace version, license), add a repository, CI config, and a LICENSE file so badges can be generated.
+- Publish source code on GitHub
+- Fix broken Pomodoro Timer
 
 References
 - VS Code Extension docs: https://code.visualstudio.com/api
