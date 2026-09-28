@@ -2,7 +2,7 @@
 
 Hey, this is a small VS Code extension that shows a friendly Shiba Inu picture in the Explorer view and provides a tiny built-in countdown (pomodoro-style), Claude AI-assisted with the implementation of the image function, and Copilot with the automated README. Next, I plan to add more features.
 
-<img width="519" height="614" alt="image" src="https://github.com/user-attachments/assets/e98f2d55-33ad-4b9f-9218-451f7284f921" />
+<img width="519" height="614" alt="image" src="" />
 
 Key behaviors:
 - Adds a webview contribution under the Explorer sidebar named "Shiba Doggo" that displays media/picture.png.
